@@ -1,13 +1,13 @@
 import React from 'react'
-import Header from './components/Header'
-import Button from './components/Button'
+import Header from './components/Header/Header.jsx'
+import Button from './components/Button/Button.jsx'   
+
 
 const App = () => {
   return (
     <div>
-      <Header />
-      
       <Button />
+      <Header />
     </div>
   )
 }

@@ -1,0 +1,19 @@
+.header  {
+  background-color: rgb(47, 186, 177);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+  margin: 5px;
+
+}
+.btn{
+  background-color: rgb(155, 164, 19);
+  color: rgb(255, 255, 255);
+  width: fit-content;
+  padding: 10px 20px;
+  border-radius: 5px;
+  margin: 5px;
+  cursor: pointer;
+  border: none;
+}
