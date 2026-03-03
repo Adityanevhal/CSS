@@ -1,10 +1,10 @@
 import React from 'react'
-
+import '../styles/Header.css'
 const Header = () => {
   return (
     <div className='header'>
       <h3>Aditya</h3>
-      <button >Log inn!!</button>
+      <button className='btn'>Log inn!!</button>
     </div>
   )
 }
