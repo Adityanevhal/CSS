@@ -3,7 +3,6 @@ import Header from './components/Header/Header.jsx'
 import Button from './components/Button/Button.jsx'   
 
 
-
 const App = () => {
   return (
     <div>
